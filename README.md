@@ -5,7 +5,7 @@
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/anadjordjevic711/chattApp.git
+> git clone https://github.com/anadjordjevic711/chatApp.git
 > cd chatApp
 > npm install
 > npm start
